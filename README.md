@@ -1,5 +1,5 @@
 <h1>Hi there 👋</h1>
-<p>My name is Junwon and I'm a highschool student at <a href="https://shh.ocsb.ca/">St. Mother Teresa HS</a>, Ottawa, Canada.</p>
+<p>My name is Junwon and I'm a highschool student at <a href="https://shh.ocsb.ca/">Sacred Heart Highschool</a>, Ottawa, Canada.</p>
 
 <h2>✍ Programming Languages</h2>
 <p>
